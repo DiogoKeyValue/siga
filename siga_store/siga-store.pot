@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-19 11:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "siga-store"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin loja do siga"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://developer.wordpress.org/plugins/the-basics/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Expandindústria, SA"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.expandindustria.pt/"
+msgstr ""
+
+msgctxt "xpto"
+msgid "teste"
+msgstr ""
+
+msgctxt "USERNAME"
+msgid "username_lbl"
+msgstr "USERNAME"
+
+msgctxt "PASSWORD"
+msgid "password_lbl"
+msgstr "PASSWORD"
+
+msgctxt "LOGIN"
+msgid "login_lbl"
+msgstr "LOGIN"
+
+msgctxt "Error. Authentication invalid."
+msgid "erro_auth_lbl"
+msgstr "Error. Authentication invalid."
+
+msgctxt "Submit"
+msgid "form_submit_lbl"
+msgstr "Submit"
+
+msgctxt "Sign Out"
+msgid "sign_out_lbl"
+msgstr "Sign Out"
+
+msgctxt "Catalogo"
+msgid "catalogo_lbl"
+msgstr "Catalogo"
+
+msgctxt "Encomenda"
+msgid "encomenda_lbl"
+msgstr "Encomenda"
+
+msgctxt "Continue Shopping"
+msgid "continue_shop_lbl"
+msgstr "Continue Shopping"
+
+msgctxt "Checkout"
+msgid "checkout_shop_lbl"
+msgstr "Checkout"
+
+msgctxt "Add to cart"
+msgid "add_cart_lbl"
+msgstr "Add to cart"
+
+msgctxt "Remove"
+msgid "remove_cart_lbl"
+msgstr "Remove"
+
+msgctxt "Content updated successfully"
+msgid "settings_update_ok_lbl"
+msgstr "Content updated successfully"
+
+msgctxt "Enter content and click on save button"
+msgid "settings_warn_content_save_lbl"
+msgstr "Enter content and click on save button"
+
+msgctxt "Dados Web"
+msgid "settings_title_01_lbl"
+msgstr "Dados Web"
+
+msgctxt "URL"
+msgid "settings_url_01_lbl"
+msgstr "URL"
+
+msgctxt "CONEXÃO"
+msgid "settings_conn_01_lbl"
+msgstr "CONEXÃO"
+
+msgctxt "USERNAME"
+msgid "settings_username_01_lbl"
+msgstr "USERNAME"
+
+msgctxt "PASSWORD"
+msgid "settings_password_01_lbl"
+msgstr "PASSWORD"
+
+msgctxt "Campos de Ordenação"
+msgid "settings_title_02_lbl"
+msgstr "Campos de Ordenação"
+
+msgctxt "Save Changes"
+msgid "settings_save_changes_lbl"
+msgstr "Save Changes"
+
+msgctxt "Siga Store - Configs"
+msgid "settings_page_title_lbl"
+msgstr "Siga Store - Configs"
+
+msgctxt "Select a client entity: (NAME - ADDRESS)"
+msgid "select_client_ent_msg"
+msgstr "Select a client entity: (NAME - ADDRESS)"
+
+msgctxt "User without assigned client entities."
+msgid "user_no_client_msg"
+msgstr "User without assigned client entities."
+
+msgctxt "Select one option"
+msgid "select_option_msg"
+msgstr "Select one option"
+
+msgctxt "Quantity is empty!"
+msgid "cart_empty_qtd_msg"
+msgstr "Quantity is empty!"
+
+msgctxt "Product already in cart"
+msgid "prod_already_cart_msg"
+msgstr "Product already in cart"
+
+msgctxt "Product not in cart"
+msgid "prod_not_cart_msg"
+msgstr "Product not in cart"
+
+msgctxt "Empty cart"
+msgid "empty_cart_msg"
+msgstr "Empty cart"
+
+msgctxt "Order placed successfully."
+msgid "order_ok_msg"
+msgstr "Order placed successfully."
+
+msgctxt "The following error occurred:"
+msgid "error_order_msg"
+msgstr "The following error occurred:"
+
+msgctxt "Input length must be below 11 digits."
+msgid "valid_input_length_msg"
+msgstr "Input length must be below 11 digits."
+
+msgctxt "Code"
+msgid "cod_prod_msg"
+msgstr "Code"
+
+msgctxt "Designation"
+msgid "desig_prod_msg"
+msgstr "Designation"
+
+msgctxt "Loading"
+msgid "load_lbl"
+msgstr "Loading"
+
+msgctxt "Cod"
+msgid "prod_cod_lbl"
+msgstr "Cod"
+
+msgctxt "Name"
+msgid "prod_name_lbl"
+msgstr "Name"
+
+msgctxt "Pic"
+msgid "prod_pic_lbl"
+msgstr "Pic"
+
+msgctxt "Price"
+msgid "prod_price_lbl"
+msgstr "Price"
+
+msgctxt "Quantity"
+msgid "prod_qtd_lbl"
+msgstr "Quantity"
+
+msgctxt "Action"
+msgid "prod_action_lbl"
+msgstr "Action"
+
+msgctxt "Total"
+msgid "prod_total_lbl"
+msgstr "Total"
+
+msgctxt "Empty Cart"
+msgid "empty_cart_lbl"
+msgstr "Empty Cart"
+
+msgctxt "Extra configs"
+msgid "settings_title_03_lbl"
+msgstr "Extra configs"
+
+msgctxt "Url Images"
+msgid "settings_img_url_03_lbl"
+msgstr "Url Images"
+
+msgctxt "Directory Images"
+msgid "settings_dir_img_03_lbl"
+msgstr "Directory Images"
+
+msgctxt "Rows per page"
+msgid "settings_rows_page_03_lbl"
+msgstr "Rows per page"
+
+msgctxt "Data Display"
+msgid "data_display_lbl"
+msgstr "Data Display"
+
+msgctxt "Display"
+msgid "display_l_g_lbl"
+msgstr "Display"
+
+msgctxt "List"
+msgid "list_l_g_lbl"
+msgstr "List"
+
+msgctxt "Grid"
+msgid "grid_l_g_lbl"
+msgstr "Grid"
+
+msgctxt "From Date"
+msgid "from_date_lbl"
+msgstr "From Date"
+
+msgctxt "To Date"
+msgid "to_date_lbl"
+msgstr "To Date"
+
+msgctxt "Get Orders"
+msgid "get_orders_lbl"
+msgstr "Get Orders"
+
+msgctxt "Client"
+msgid "order_client_lbl"
+msgstr "Client"
+
+msgctxt "Order Date"
+msgid "order_date_lbl"
+msgstr "Order Date"
+
+msgctxt "Order Number"
+msgid "order_number_lbl"
+msgstr "Order Number"
+
+msgctxt "Order Description"
+msgid "order_desc_lbl"
+msgstr "Order Description"
+
+
+msgctxt "Status"
+msgid "order_status_lbl"
+msgstr "Status"
+
+msgctxt "Action"
+msgid "order_action_lbl"
+msgstr "Action"
+
+msgctxt "Show Detail"
+msgid "order_btn_lbl"
+msgstr "Show Detail"
+
+msgctxt "Cod"
+msgid "order_art_cod_lbl"
+msgstr "Cod"
+
+msgctxt "Desig"
+msgid "order_art_desig_lbl"
+msgstr "Desig"
+
+msgctxt "Qtd"
+msgid "order_art_qtd_lbl"
+msgstr "Qtd"
+
+msgctxt "Uni"
+msgid "order_art_uni_lbl"
+msgstr "Uni"
+
+msgctxt "Price"
+msgid "order_art_prc_lbl"
+msgstr "Price"
+
+msgctxt "Order nº"
+msgid "order_art_title_lbl"
+msgstr "Order nº"
+
+msgctxt "Registers per Page"
+msgid "registers_per_page_lbl"
+msgstr "Registers per Page"
+
+msgctxt "First Result"
+msgid "first_result_lbl"
+msgstr "First Result"
+
+msgctxt "No Results"
+msgid "no_results_lbl"
+msgstr "No Results"
+
+msgctxt "Fill in the two date fields."
+msgid "fill_two_dates_lbl"
+msgstr "Fill in the two date fields."
+
+msgctxt "Sending Order"
+msgid "send_order_lbl"
+msgstr "Sending Order"
+
+msgctxt "Home"
+msgid "home_tab_lbl"
+msgstr "Home"
+
+msgctxt "My Orders"
+msgid "my_orders_tab_lbl"
+msgstr "My Orders"
+
+msgctxt "Invalid Price"
+msgid "invalid_price_lbl"
+msgstr "Invalid Price!"
+
+msgctxt "Welcome"
+msgid "welcome_lbl"
+msgstr "Welcome"
+
+msgctxt "Vendor"
+msgid "cli_lbl"
+msgstr "Vendor"
+
+msgctxt "Barcode"
+msgid "barcode_prod_msg"
+msgstr "Barcode"
+
+msgctxt "Need to reach the minimum value of "
+msgid "min_enc_msg01"
+msgstr "Necessita de atingir o valor mínimo de "
+
+msgctxt "€ para realizar a encomenda."
+msgid "min_enc_msg02"
+msgstr "€ to place the order."
+
+msgctxt "Barcode Type"
+msgid "barcode_type_lbl"
+msgstr "Barcode Type"
+
+msgctxt "Min Order Value (€)"
+msgid "min_enc_value_lbl"
+msgstr "Min Order Value (€)"
+
+msgctxt "Combo 2 Required"
+msgid "combo2_req_lbl"
+msgstr "Combo 2 Required"
+
+msgctxt "Enter each value by separating each with a comma"
+msgid "combo_hide_value_place"
+msgstr "Enter each value by separating each with a comma"
+
+msgctxt "Hide: "
+msgid "hide_lbl"
+msgstr "Hide: "
+
+msgctxt "Yes"
+msgid "yes_option_lbl"
+msgstr "Yes"
+
+msgctxt "No"
+msgid "no_option_lbl"
+msgstr "No"
+
+msgctxt "Please fill in at least one of the search fields."
+msgid "fill_search_msg"
+msgstr "Please fill in at least one of the search fields."
+
+msgctxt "Sign In"
+msgid "sign_in_lbl"
+msgstr "Sign In"
+
+msgctxt "Change Password"
+msgid "change_pass_lbl"
+msgstr "Change Password"
+
+msgctxt "Current Password"
+msgid "current_pass_lbl"
+msgstr "Current Password"
+
+msgctxt "New Password"
+msgid "new_pass_lbl"
+msgstr "New Password"
+
+msgctxt "Confirm New Password"
+msgid "confirm_new_pass_lbl"
+msgstr "Confirm New Password"
+
+msgctxt "The field is not filled."
+msgid "empty_new_pass_msg"
+msgstr "The field is not filled."
+
+msgctxt "The new password was not confirmed correctly."
+msgid "new_pass_not_confirmed_msg"
+msgstr "The new password was not confirmed correctly."
+
+msgctxt "Password changed successfully."
+msgid "new_pass_sucess_msg"
+msgstr "Password changed successfully."
+
+msgctxt "Product added successfully!"
+msgid "product_added_successfully"
+msgstr "Product added successfully!"
+
+msgctxt "First"
+msgid "pagination_first"
+msgstr "First"
+
+msgctxt "of"
+msgid "pagination_number_legend"
+msgstr "of"
+
+msgctxt "Last"
+msgid "pagination_last"
+msgstr "Last"
+
+msgid "imprimir_label"
+msgstr "Imprimir"
+
+msgctxt "Tab Configs"
+msgid "settings_title_04_lbl"
+msgstr "Tab Configs"

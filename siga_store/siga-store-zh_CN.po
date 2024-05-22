@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: siga-store\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-19 11:08+0000\n"
+"PO-Revision-Date: 2018-09-10 11:00+0000\n"
+"Last-Translator: tiago <tmoutinho@expandindustria.pt>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. URI of the plugin
+msgid "https://developer.wordpress.org/plugins/the-basics/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Expandindústria, SA"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.expandindustria.pt/"
+msgstr ""
+
+msgid "username_lbl"
+msgstr "用户"
+
+msgid "password_lbl"
+msgstr "密码"
+
+msgid "login_lbl"
+msgstr "请登录"
+
+msgid "erro_auth_lbl"
+msgstr "有错误！无效身份验证"
+
+msgid "form_submit_lbl"
+msgstr "保存"
+
+msgid "sign_out_lbl"
+msgstr "登出"
+
+msgid "catalogo_lbl"
+msgstr "商品目录"
+
+msgid "encomenda_lbl"
+msgstr "购物车"
+
+msgid "settings_update_ok_lbl"
+msgstr "内容已成功更新"
+
+msgid "continue_shop_lbl"
+msgstr "继续购物"
+
+msgid "checkout_shop_lbl"
+msgstr "现在结账"
+
+msgid "add_cart_lbl"
+msgstr "添加购物车"
+
+msgid "remove_cart_lbl"
+msgstr "删除"
+
+msgid "warn_content_save_lbl"
+msgstr "Insira o conteúdo e clique no botão Guardar"
+
+msgid "settings_title_01_lbl"
+msgstr "Dados Web"
+
+msgid "settings_url_01_lbl"
+msgstr "URL"
+
+msgid "settings_conn_01_lbl"
+msgstr "CONEXÃO"
+
+msgid "settings_username_01_lbl"
+msgstr "USERNAME"
+
+msgid "settings_password_01_lbl"
+msgstr "PASSWORD"
+
+msgid "settings_title_02_lbl"
+msgstr "Campos de Ordenação"
+
+msgid "settings_save_changes_lbl"
+msgstr "Guardar alterações"
+
+msgid "settings_page_title_lbl"
+msgstr "Siga Store - Configs"
+
+msgid "select_client_ent_msg"
+msgstr "请选择客户资料：(名字 - 地址)"
+
+msgid "user_no_client_msg"
+msgstr "用户没有任何客户资料。"
+
+msgid "select_option_msg"
+msgstr "选择"
+
+msgid "cart_empty_qtd_msg"
+msgstr "数量是空的！"
+
+msgid "prod_already_cart_msg"
+msgstr "商品已在购物车。"
+
+msgid "prod_not_cart_msg"
+msgstr "商品不在购物车。"
+
+msgid "empty_cart_msg"
+msgstr "购物车是空的"
+
+msgid "order_ok_msg"
+msgstr "订单提交成功。"
+
+msgid "error_order_msg"
+msgstr "出现错误："
+
+msgid "valid_input_length_msg"
+msgstr "必须输入在11位数以下。"
+
+msgid "cod_prod_msg"
+msgstr "代号"
+
+msgid "desig_prod_msg"
+msgstr "名称"
+
+msgid "load_lbl"
+msgstr "加载中"
+
+msgid "prod_cod_lbl"
+msgstr "货号"
+
+msgid "prod_name_lbl"
+msgstr "名字"
+
+msgid "prod_pic_lbl"
+msgstr "图片"
+
+msgid "prod_price_lbl"
+msgstr "价格"
+
+msgid "prod_qtd_lbl"
+msgstr "数量"
+
+msgid "prod_action_lbl"
+msgstr "保存"
+
+msgid "prod_total_lbl"
+msgstr "支付总额"
+
+msgid "empty_cart_lbl"
+msgstr "商品已加入购物车"
+
+msgid "settings_title_03_lbl"
+msgstr "Extra configs"
+
+msgid "settings_img_url_03_lbl"
+msgstr "Url das Imagens"
+
+msgid "settings_dir_img_03_lbl"
+msgstr "Diretório das Imagens"
+
+msgid "settings_rows_page_03_lbl"
+msgstr "Linhas por página"
+
+msgid "data_display_lbl"
+msgstr "Exibição de dados"
+
+msgid "display_l_g_lbl"
+msgstr "显示"
+
+msgid "list_l_g_lbl"
+msgstr "列表"
+
+msgid "grid_l_g_lbl"
+msgstr "网格"
+
+msgid "from_date_lbl"
+msgstr "自"
+
+msgid "to_date_lbl"
+msgstr "至"
+
+msgid "get_orders_lbl"
+msgstr "显示订单"
+
+msgid "order_client_lbl"
+msgstr "客户"
+
+msgid "order_date_lbl"
+msgstr "订单日期"
+
+msgid "order_number_lbl"
+msgstr "号码"
+
+msgid "order_status_lbl"
+msgstr "状态"
+
+msgid "order_action_lbl"
+msgstr "行动"
+
+msgid "order_btn_lbl"
+msgstr "显示细节信息"
+
+msgid "order_art_cod_lbl"
+msgstr "货号"
+
+msgid "order_art_desig_lbl"
+msgstr "名称"
+
+msgid "order_art_qtd_lbl"
+msgstr "数量"
+
+msgid "order_art_uni_lbl"
+msgstr "单位"
+
+msgid "order_art_prc_lbl"
+msgstr "价格"
+
+msgid "order_art_title_lbl"
+msgstr "订单号"
+
+msgid "registers_per_page_lbl"
+msgstr "每页的结果"
+
+msgid "first_result_lbl"
+msgstr "第一个结果"
+
+msgid "no_results_lbl"
+msgstr "没有结果"
+
+msgid "fill_two_dates_lbl"
+msgstr "请填空日期字段。"
+
+msgid "send_order_lbl"
+msgstr "订单正在发生中"
+
+msgid "home_tab_lbl"
+msgstr "主页"
+
+msgid "my_orders_tab_lbl"
+msgstr "我的订单"
+
+msgid "invalid_price_lbl"
+msgstr "无效的价格"
+
+msgid "welcome_lbl"
+msgstr "欢迎光临"
+
+msgid "cli_lbl"
+msgstr "卖家"
+
+msgid "barcode_prod_msg"
+msgstr "条形码"
+
+msgid "min_enc_msg01"
+msgstr "您需要达到 "
+
+msgid "min_enc_msg02"
+msgstr "欧元为了成功订购"
+
+msgid "barcode_type_lbl"
+msgstr "条码类型"
+
+msgid "min_enc_value_lbl"
+msgstr "最小订单金额（欧元）"
+
+msgid "combo2_req_lbl"
+msgstr "Combo 2 Obrigatório"
+
+msgid "combo_hide_value_place"
+msgstr "请插入值，用逗号分离每个值"
+
+msgid "hide_lbl"
+msgstr "隐藏: "
+
+msgid "yes_option_lbl"
+msgstr "是"
+
+msgid "no_option_lbl"
+msgstr "否"
+
+msgid "fill_search_msg"
+msgstr "请选择至少一个检索字段。"
+
+msgid "sign_in_lbl"
+msgstr "登录"
+
+msgid "change_pass_lbl"
+msgstr "更改密码"
+
+msgid "current_pass_lbl"
+msgstr "当前密码"
+
+msgid "new_pass_lbl"
+msgstr "新密码"
+
+msgid "confirm_new_pass_lbl"
+msgstr "确认新密码"
+
+msgid "empty_new_pass_msg"
+msgstr "空白没有填写。"
+
+msgid "new_pass_not_confirmed_msg"
+msgstr "新密码没有被正确确认"
+
+msgid "new_pass_sucess_msg"
+msgstr "新密码没有被正确确认"
+
+msgid "product_added_successfully"
+msgstr "商品已加入购物车"
+
+msgid "pagination_first"
+msgstr "首页"
+
+msgid "pagination_number_legend"
+msgstr "/"
+
+msgid "pagination_last"
+msgstr "末页"
+
+msgid "product_removed_successfully"
+msgstr "商品已成功移除"
+
+msgid "cannot_add_product_with_quantity_zero"
+msgstr "如没有数量就不能添加商品"
+
+msgid "cannot_update_product_with_quantity_zero"
+msgstr "如没有数量就不能更改商品"
+
+msgid "cart_updated_successfully"
+msgstr "购物车已成功更新"
+
+msgid "update_product"
+msgstr "更新商品"
+
+msgid "perc_desconto"
+msgstr "&#37; perc."
+
+msgid "preco_desconto"
+msgstr "净价"
+
+msgid "imprimir_label"
+msgstr "打印"
+
+msgid "liquido"
+msgstr "净值"
+
+msgid "refresh_checkout"
+msgstr "更新购物车"
+
+msgid "remove_item_sure"
+msgstr "您确认删除吗？"
+
+msgid "remove_item_double_sure"
+msgstr "您想取消订单吗？"
+
+msgid "observacos"
+msgstr "评论"
+
+msgid "product_already_buyed"
+msgstr "您在不到一年前买了这个商品"

@@ -1,0 +1,60 @@
+ ### Ok
+ POST http://localhost:8080/siga/seam/resource/rest/public/testesWebTokenService/semAuthorization/entityManager:RestFull:Xepo
+ Content-Type: application/xml
+
+ <login>
+ <username>demo</username>      
+ <password>demo</password>		
+</login>
+
+### Ok
+POST https://portal.douroacima.pt/seam/resource/rest/public/jsGrdaVendedorService/obterVendas/
+Content-Type: application/json
+
+{
+  "jsGrdaVePesquisarVendasBeanRestFul": {
+      "dataIni":"2022/03/28", 
+      "dataFim":"2022/03/28"
+   }
+}   
+
+
+### OK
+GET http://132.10.18.237:9000/aleal/seam/resource/rest/naturezaService/getAllNatureza/entityManager:RestFull:Xepo/demo/ZGVtbw==
+Content-type : application/json
+Authorization: Basic ZGVtbzpkZW1v
+
+### Ok
+POST http://132.10.18.237:9100/lar/seam/resource/rest/jsStoreRestFulService/obterArtigosPorCombos/entityManager:RestFull:Xepo
+Content-type : application/json
+Authorization: Basic ZGVtbzpkZW1v
+
+{
+    "jsStoreQueryArtigoBeanRESTful" : {
+        "seqEntidade" : "846",
+        "combo1": "FAMILIA",
+        "comboValor1" : "06",
+        "combo2" : "CLASSE",
+        "comboValor2" : "0604",
+        "nrRegistosPag" : 30,
+        "firstResult" : 0,
+        "obterHistorico": true
+    }
+}
+
+
+### Ok
+POST https://portal.douroacima.pt/seam/resource/rest/public/jsGrdaVendedorService/login/
+Content-type : application/json
+
+{"username":"999999999", "password":"999999999"}
+
+
+### Ok
+GET http://132.10.18.237:9000/aleal/seam/resource/rest/naturezaService/getAllNatureza/entityManager:RestFull:Xepo/demo/ZGVtbw==
+Content-type : application/json
+Authorization: Basic ZGVtbzpkZW1v
+
+
+### OK alterado
+GET https://portal.douroacima.pt/seam/resource/rest/public/jsGrdaVendedorService/obterDadosVendasComiss/999999999
